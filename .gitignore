@@ -1,13 +1,4 @@
 mklinker.bat
-ressourcepack\§4Vive l'URSS test\*
-ressourcepack\BetterVanillaBuilding\*
-ressourcepack\Pack privé\*
-ressourcepack\Ressource Pack Avec Item Cassé a Moins de 5% de Sa Vie\*
-ressourcepack\§4Vive_lURSS_v.0.7.4
-ressourcepack\Data packs Awakening RP.zip
-ressourcepack\Minificent.zip
-ressourcepack\Sama_Faithful v1.9 [Minecraft 1.17.x].zip
-ressourcepack\Survie DP - RP.zip
 resssourcepack/BetterVanillaBuilding/assets/.mcassetsroot
 resssourcepack/BetterVanillaBuilding/assets/minecraft/blockstates/acacia_fence.json
 resssourcepack/BetterVanillaBuilding/assets/minecraft/blockstates/acacia_fence_gate.json
@@ -6381,7 +6372,6 @@ resssourcepack/BetterVanillaBuilding/assets/minecraft/textures/particle/sweep_7.
 resssourcepack/BetterVanillaBuilding/pack.mcmeta
 resssourcepack/BetterVanillaBuilding/pack.png
 resssourcepack/Data packs Awakening RP.zip
-resssourcepack/Datasurv RP.zip
 resssourcepack/Minificent.zip
 resssourcepack/Pack privé/assets/minecraft/A config/minecraft/models/desktop.ini
 resssourcepack/Pack privé/assets/minecraft/A config/minecraft/models/item/desktop.ini
